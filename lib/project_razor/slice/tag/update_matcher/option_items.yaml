@@ -20,10 +20,10 @@
   :description: The new value to match against.
   :uuid_is: required
   :required: true
-- :name: :invert
+- :name: :inverse
   :default:
   :short_form: -i
-  :long_form: --invert VALUE
+  :long_form: --inverse VALUE
   :description: Invert the match (true|false).
   :uuid_is: required
   :required: true
